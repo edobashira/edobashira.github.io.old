@@ -5,7 +5,6 @@ My name is [Paul Dixon](http://twitter.com/edobahira) I am a researcher
 passionate about speech recognition and finite state methods. Currently, I'm spending
 most spare programming time prepare the release [OpenDcd](http://opendcd.github.io/).
 
-* [OpenDcd](http://opendcd.github.io/) - State-of-the-art WFST based Decoder for speech and other applications
 
 * [OpenFst.NET](https://github.com/edobashira/OpenFst.NET) - Rewrite of OpenFst to C# for the .NET framework
 
