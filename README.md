@@ -2,9 +2,7 @@ Paul R. Dixon
 ====================
 
 My name is [Paul Dixon](http://twitter.com/edobahira) I am a researcher 
-passionate about speech recognition and finite state methods. Currently, I'm spending
-most spare programming time prepare the release [OpenDcd](http://opendcd.github.io/).
-
+passionate about speech recognition and finite state methods. 
 
 * [OpenFst.NET](https://github.com/edobashira/OpenFst.NET) - Rewrite of OpenFst to C# for the .NET framework
 
