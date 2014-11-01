@@ -1,11 +1,11 @@
 Paul R. Dixon
 ====================
 
-Speech recognition and finite state transducers related projects:
+Mostly speech recognition and finite state transducers related projects:
 
 * [OpenDcd](http://opendcd.org/) - An Open Source WFST based Speech Recognition Decoder
 
-* [Speech Links](https://github.com/edobashira/SpeechLinks) - Curated list of links to speech and language processing tools and resources.
+* [Speech Links](https://github.com/edobashira/speech-language-processing) - Curated list of links to speech and language processing tools and resources.
 
 * [OpenFst.NET](https://github.com/edobashira/OpenFst.NET) - Rewrite of OpenFst to C# for the .NET framework.
 
