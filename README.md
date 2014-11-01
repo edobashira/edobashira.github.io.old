@@ -1,7 +1,7 @@
 Paul R. Dixon
 ====================
 
-Speech recognition and finite state transducers related project:
+Speech recognition and finite state transducers related projects:
 
 * [OpenDcd](http://opendcd.org/) - An Open Source WFST based Speech Recognition Decoder
 
